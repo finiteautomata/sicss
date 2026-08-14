@@ -239,4 +239,5 @@ with gr.Blocks(title="Herramienta de Anotación") as app:
 
 
 if __name__ == "__main__":
-    app.launch(theme=gr.themes.Soft())
+    app.launch(theme=gr.themes.Soft(), share=True)
+
