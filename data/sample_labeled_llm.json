@@ -1,0 +1,861 @@
+[
+  {
+    "id": 357080,
+    "tweet_id": "1308796793237495809",
+    "article_id": "1308766339306315777",
+    "text": "@usuario Todos los políticamente correctos se dan cuenta que hay una pandemia por culpa de los chinos?",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": true,
+    "OFFENSIVE": false,
+    "CALLS": false,
+    "categories": [
+      "RACISM"
+    ]
+  },
+  {
+    "id": 385826,
+    "tweet_id": "1305048368939520000",
+    "article_id": "1304779775219765248",
+    "text": "@usuario Estamos en el 2020 y siguen publicando las opiniones de un dinosaurio",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 337469,
+    "tweet_id": "1290356305702653964",
+    "article_id": "1290354863914835976",
+    "text": "@usuario Jajaja que hija de puta",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 352094,
+    "tweet_id": "1264375820652630018",
+    "article_id": "1264374365367525376",
+    "text": "@usuario 4 años de gobierno y no pudieron con ella Por que será?",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": false,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 378931,
+    "tweet_id": "1298275195984248832",
+    "article_id": "1298229400165638144",
+    "text": "@usuario Los Chinos en son al mundo, lo que son las plagas a/de la biblia.",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": true,
+    "OFFENSIVE": false,
+    "CALLS": false,
+    "categories": [
+      "RACISM"
+    ]
+  },
+  {
+    "id": 389422,
+    "tweet_id": "1354871149260398597",
+    "article_id": "1354857098094510086",
+    "text": "@usuario Les sorprende lo que dice este HDMP? \nPietragalla es parte de este #GobiernoCriminalyCorrupto señores/as. Hay un 48% de infradotados que lo pusieron ahí. incluyendo a los formoseños",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": true,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": [
+      "CRIMINAL",
+      "CLASS"
+    ]
+  },
+  {
+    "id": 403254,
+    "tweet_id": "1355920493757554693",
+    "article_id": "1355710012979630086",
+    "text": "@usuario #FueraElRegimenKDeArgentina",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 374914,
+    "tweet_id": "1310360618004885506",
+    "article_id": "1310360068685287424",
+    "text": "@usuario Aja...Dios NO lo va a permitir q venga a militar para los K. Dios nos libre de él",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 386662,
+    "tweet_id": "1300053639478861826",
+    "article_id": "1300027847935959041",
+    "text": "@usuario Impensada la conclusión",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": false,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 370183,
+    "tweet_id": "1272250906436931594",
+    "article_id": "1272246814897389569",
+    "text": "@usuario A QUIEN LE INTERESA ESO ????",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 399045,
+    "tweet_id": "1326625031305179137",
+    "article_id": "1326539511505985545",
+    "text": "@usuario Es una descerebrada....de ahí a hacer sinapsis... lamentablemente hay muchas/os así",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 405360,
+    "tweet_id": "1349521330257981441",
+    "article_id": "1348388176302399489",
+    "text": "@usuario No se puede decir mujer trans, solo diga trans, en todo caso su cuerpo tiende más a ser de varón que de mujer",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": true,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": [
+      "LGBTI"
+    ]
+  },
+  {
+    "id": 402805,
+    "tweet_id": "1346212554662670337",
+    "article_id": "1345896042265509898",
+    "text": "@usuario Esta claro donde estamos no?",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": false,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 377211,
+    "tweet_id": "1306681278700363777",
+    "article_id": "1306590007264604160",
+    "text": "@usuario Que se quede tranquilo el golpista de Duhalde que ahora estámos como quiere Alberto, cuidándonos en casa, que cuando se disponga verá la gente en la calle apoyándolo",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": false,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 376896,
+    "tweet_id": "1266069025651556379",
+    "article_id": "1265805372935241728",
+    "text": "@usuario Que fácil es hablar cuando no se vive allá. Te gusta tanto Venezuela?!?!? Chauuuu buen viaje viejo. Dejate de romper 🥚🥚como se nota lo malo de tu ser que sos. Tenes sed de sangre y venganza. Mala gente eres. Sinceramente sos un unitario!!! 🤮",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 338830,
+    "tweet_id": "1241472270515798016",
+    "article_id": "1241470005562224640",
+    "text": "@usuario ¿Quién puede depositar confianza en un país de sucios?",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": true,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": [
+      "RACISM"
+    ]
+  },
+  {
+    "id": 356852,
+    "tweet_id": "1291856261265358850",
+    "article_id": "1291854186590633988",
+    "text": "@usuario Esto no puede ser verdad....",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": false,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 341892,
+    "tweet_id": "1277967441012772869",
+    "article_id": "1277964132193497091",
+    "text": "@usuario Me parece q NU y la OMS ya tendrían q ocuparse seriamente de China. Es un territorio inmenso con 1400 millones de personas q propagan cualquier cosa en días. Con unas costumbres alimenticias q demostraron ser peligrosísimas. No somos mejores pero parece que ahí hay un plus.",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": false,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 367338,
+    "tweet_id": "1269638609969254400",
+    "article_id": "1269477216271962118",
+    "text": "@usuario Está bien sigan fomentando vagos.",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 371075,
+    "tweet_id": "1253507186757701632",
+    "article_id": "1253461919345733633",
+    "text": "@usuario Claro si ofendel a la que se cuelga en el caño xq ahora cree ser primera dama?😂 hay que ser peruka para dar asco y ser basuras bigote enseguida ordena como se metió en Facebook y en todo que culpa te.emos que saque la mujer del cabarute?",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": true,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": [
+      "WOMEN"
+    ]
+  },
+  {
+    "id": 397327,
+    "tweet_id": "1328844280836870146",
+    "article_id": "1328841696394752003",
+    "text": "@usuario Ahí están las basuras k pobres e idiotas útiles, las basuras k ricas los miran por TV, no se mezclan.",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": true,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": [
+      "CLASS"
+    ]
+  },
+  {
+    "id": 379372,
+    "tweet_id": "1301601084159520768",
+    "article_id": "1301600943017005062",
+    "text": "@usuario Bala",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 384413,
+    "tweet_id": "1257645164459425793",
+    "article_id": "1257353809124360194",
+    "text": "@usuario Como no le van a echar la culpa estos kaka, si son solidarios hasta que les toca trabajar. Para robar y acusar los primero. Pero cuando les recordas la responsabilidad que les toca y las mentiras que prometieron sos un hdp.  Perp para la monada aguante la kri  la kri la kriiiiii",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": true,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": [
+      "CLASS",
+      "POLITICS"
+    ]
+  },
+  {
+    "id": 373983,
+    "tweet_id": "1238870300906991618",
+    "article_id": "1238864608649084929",
+    "text": "@usuario La enfermita está mejor que yo,y no se calienta por la hija",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 360266,
+    "tweet_id": "1310701013222019074",
+    "article_id": "1310676653920653318",
+    "text": "@usuario Qué estadista de la 🐚 del 🦆!!! Es al pedo, cuando sos, sos eh?",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 335692,
+    "tweet_id": "1277223106046840833",
+    "article_id": "1276983744147136512",
+    "text": "@usuario Claro todo lo demas no lo pagas",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": false,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 400623,
+    "tweet_id": "1340825839987019783",
+    "article_id": "1340811530217119750",
+    "text": "@usuario Está mina no sirve para otra cosa!! @usuario , dedícate  a otra cosa !! Sos un parásito de la mala política!! Sabemos a lo que se dedica el hijo de la sra en México??? Mmmm",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": true,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": [
+      "WOMEN",
+      "POLITICS"
+    ]
+  },
+  {
+    "id": 329821,
+    "tweet_id": "1241901374637473792",
+    "article_id": "1241801455687864329",
+    "text": "@usuario CF y su hija también llegaron con \" Éstos Chetos\" basta de boludeces. Todos son Argentinos.",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": false,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 369507,
+    "tweet_id": "1304384954722381824",
+    "article_id": "1304371155193802754",
+    "text": "@usuario Falso. Administraron bien CABA y ustedes hicieron mierda el país desde hace décadas. Gordo nefasto y ladrón!",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 403384,
+    "tweet_id": "1324053392017281026",
+    "article_id": "1324046245623697408",
+    "text": "@usuario Ya se hizo......",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 336624,
+    "tweet_id": "1253173100314755075",
+    "article_id": "1253098916716982278",
+    "text": "@usuario Ojalá fuera  estados unidos, tendría un hermoso adorno de metal entre las dos cejas",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 338950,
+    "tweet_id": "1263432347728449541",
+    "article_id": "1263234124552208385",
+    "text": "@usuario Zurdos ratones.",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 373822,
+    "tweet_id": "1271948559060029440",
+    "article_id": "1271749265715539968",
+    "text": "@usuario Ajajajaja hijo de puta te escapaste de la 7ma de Bokita",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": [
+      "WOMEN",
+      "LGBTI",
+      "RACISM",
+      "CLASS",
+      "POLITICS",
+      "DISABLED",
+      "APPEARANCE",
+      "CRIMINAL"
+    ]
+  },
+  {
+    "id": 378055,
+    "tweet_id": "1312406653095075842",
+    "article_id": "1312404198546460673",
+    "text": "@usuario No me ofendería si en plena sesión se chupa algo",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 345149,
+    "tweet_id": "1238182854758223872",
+    "article_id": "1238166123318611968",
+    "text": "@usuario Que no viaje!",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": false,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 401983,
+    "tweet_id": "1333769533891502081",
+    "article_id": "1333767674145468420",
+    "text": "@usuario Ruta 2 es provincial. El desalojo depende de un juez y de Kicillof. Busquen alternativas...",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": false,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 343769,
+    "tweet_id": "1253077463997075462",
+    "article_id": "1253065700442288130",
+    "text": "@usuario Hermoso momento",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": false,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 358669,
+    "tweet_id": "1287076670877442049",
+    "article_id": "1286709467703398403",
+    "text": "@usuario Resentimiento e hipocresía... No le cabe otras palabras al bueno de Lebron...",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 364193,
+    "tweet_id": "1272306205621456896",
+    "article_id": "1272293474398765064",
+    "text": "@usuario Naaaaaaa cerrame la cuatroooo!!! No tenes cara gordo!! Sos de lo peor.",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 388550,
+    "tweet_id": "1310891607005200384",
+    "article_id": "1310889182307516416",
+    "text": "@usuario Esto pasa cuando si la medicacion psiquiatrica es cara y Larreta no se ocupa de que los locos puedan adquirir su medicacion",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 396663,
+    "tweet_id": "1339408770288529412",
+    "article_id": "1339389546149109760",
+    "text": "@usuario Tiene que posar así uno atrás del otro? Después se quejan de los chistes 😜",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 374959,
+    "tweet_id": "1280189076981911564",
+    "article_id": "1279954218036727809",
+    "text": "@usuario No sé olvide Santiago Cafiero ,cuando ustedes decían que la muerte de Santiago Maldonado era un crimen de estado ,ahora prueben de su propia medicina.",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": false,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 362409,
+    "tweet_id": "1299836225747128325",
+    "article_id": "1299813750229401602",
+    "text": "@usuario Que tristeza que la familia tenga que hacer viral el horror que vivieron y viven para que la justicia haga su trabajo. Dan asco",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 328044,
+    "tweet_id": "1239003827791159296",
+    "article_id": "1239003062519414785",
+    "text": "@usuario Son unos reverendos hdp!",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 350162,
+    "tweet_id": "1291860070905647108",
+    "article_id": "1291776451000389632",
+    "text": "@usuario Empezando por ustedes gobierno de inútiles",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 376639,
+    "tweet_id": "1306932575584296962",
+    "article_id": "1306929184766390274",
+    "text": "@usuario Pero que país de mierda la re puta madre. Ni que el chow fan fuera tan rico para bancarse una tras otra",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 378541,
+    "tweet_id": "1288914950463860738",
+    "article_id": "1288564063891587072",
+    "text": "@usuario Usted dirá \"Que ASESINÓ la policía\"",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 394499,
+    "tweet_id": "1329593555669708800",
+    "article_id": "1329526840264941574",
+    "text": "@usuario Cara dura!",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 352857,
+    "tweet_id": "1257556391444840448",
+    "article_id": "1257416536660328455",
+    "text": "@usuario Y si estaban de motin....",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 348934,
+    "tweet_id": "1298046509544505345",
+    "article_id": "1297501494145581056",
+    "text": "@usuario Es mejor promover que la clase media salga a cartonear",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 343978,
+    "tweet_id": "1293945001827880962",
+    "article_id": "1293876043737112576",
+    "text": "@usuario De vuelta al pago donde nací.. O me hicieron???",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 365092,
+    "tweet_id": "1291567403382517760",
+    "article_id": "1291421793975177216",
+    "text": "@usuario Pudrete",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 329224,
+    "tweet_id": "1294472201727606784",
+    "article_id": "1294462648948531200",
+    "text": "@usuario Gonka",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": false,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 401209,
+    "tweet_id": "1342454847447162884",
+    "article_id": "1342421953727115264",
+    "text": "@usuario Che y lo dijo sin ponerse Colorado?",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": false,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 404635,
+    "tweet_id": "1336126938377822209",
+    "article_id": "1336045187638898690",
+    "text": "@usuario Sólo el Universo y la estupidez humana son infinitos..y no estoy tan seguro de lo primero.",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 353321,
+    "tweet_id": "1304235371224539136",
+    "article_id": "1304234329732771841",
+    "text": "@usuario Lástima la cara",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 403229,
+    "tweet_id": "1355716664399196164",
+    "article_id": "1355710012979630086",
+    "text": "@usuario Que buena gestion jjjjjjjjj",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": false,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 406980,
+    "tweet_id": "1347856613667975170",
+    "article_id": "1347562698087792641",
+    "text": "@usuario Ese no es el problema..lo que es peor es esta lakra que nos gobierna..",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": true,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": [
+      "POLITICS"
+    ]
+  },
+  {
+    "id": 329016,
+    "tweet_id": "1253190850038898695",
+    "article_id": "1253159627291799552",
+    "text": "@usuario @usuario no seas boludo. Que rindan lo que tienen que rendir para estar habilitados y nadie va a discriminar y podes hacer tu negociado y el de tu jefa tranquilo.",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 357077,
+    "tweet_id": "1308768681573445633",
+    "article_id": "1308766339306315777",
+    "text": "@usuario @usuario estoy totalmente de acuerdo con Feiman, los chinos, por su forma de vivir, se encargaron de exportarnos virus, todos comienzan ahí, ellos después te mandan las vacunas, barbijo, etc y siguen haciendo negocios, tendrán q dar explicaciones!!",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": true,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": [
+      "RACISM"
+    ]
+  },
+  {
+    "id": 395814,
+    "tweet_id": "1355509670253912069",
+    "article_id": "1355154118952812544",
+    "text": "@usuario Un rejuntado de mierda",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 349920,
+    "tweet_id": "1291181547945627653",
+    "article_id": "1291076419045523457",
+    "text": "@usuario Pero esta lechona teñida está cada día más pelotuda. Se pasó con las pastillas.",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 400602,
+    "tweet_id": "1341039220916428805",
+    "article_id": "1340811530217119750",
+    "text": "@usuario Denuncie,denuncie....\nVieja Soreta",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 397990,
+    "tweet_id": "1326892456873488390",
+    "article_id": "1326711513592320002",
+    "text": "@usuario A Lali le dicen bandera..... la clavaron hasta en la luna.",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 353349,
+    "tweet_id": "1266522590597824512",
+    "article_id": "1266502275985440775",
+    "text": "@usuario A quién carajo le importa lo que hubiese dicho una esquinera de cuarta. La tilinga esa hubiese dicho lo que el viejo pedófilo la hubiese mandado decir. 🤮",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": true,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": [
+      "WOMEN"
+    ]
+  },
+  {
+    "id": 384773,
+    "tweet_id": "1296931908438417408",
+    "article_id": "1296925093445197824",
+    "text": "@usuario #CacerolazoPorSolange hoy 21hs Hijos de mil putas.",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 384879,
+    "tweet_id": "1243180664591179779",
+    "article_id": "1243153356505452545",
+    "text": "@usuario Cuando era chico no había curas barbudos. Ahora son todos barbudos, comunistas y bastante roñosos. Parecen/son terroristas enseñando el odio de clase y como solución a todo pidiendo planes.",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": true,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": [
+      "CLASS"
+    ]
+  },
+  {
+    "id": 343020,
+    "tweet_id": "1240473783435173888",
+    "article_id": "1240471440509431808",
+    "text": "@usuario La solución al coronavirus hubiera sido mandar una bomba atómica a china.",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": true,
+    "OFFENSIVE": false,
+    "CALLS": true,
+    "categories": [
+      "RACISM"
+    ]
+  },
+  {
+    "id": 371308,
+    "tweet_id": "1285750949068374016",
+    "article_id": "1285685770989314051",
+    "text": "@usuario Después se quejan cuando matan a estos chorros de mrd.\nSon engendros de malas putas.\n#bastadeimpunidad",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": true,
+    "OFFENSIVE": true,
+    "CALLS": true,
+    "categories": [
+      "CRIMINAL"
+    ]
+  },
+  {
+    "id": 396783,
+    "tweet_id": "1343315894940946432",
+    "article_id": "1343287160779272192",
+    "text": "@usuario Y no hacen nada de esfuerzo y le pagan bien.  Hay operarios que arriesgan su vida por son mango y van igual para poder vivir ...y este se hace la víctima",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 327432,
+    "tweet_id": "1282739381326012420",
+    "article_id": "1282688369139437568",
+    "text": "@usuario @usuario MM bajó del avión,  abrazo al hombre que lo recibió y él tipo no tenia tapaboca. Son de lo peor , sin escrúpulos ni moral.  Le faltan él respeto al pueblo Paraguayo y Argentino.",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 328916,
+    "tweet_id": "1266073957842780166",
+    "article_id": "1266012235517722625",
+    "text": "@usuario Viejo hijo de remil puta",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 379395,
+    "tweet_id": "1312748869860679681",
+    "article_id": "1311784142590406662",
+    "text": "@usuario Sería bueno que empiecen por trabajar así sienten por primera la dignidad ....empezar a lograr algo con su esfuerzo y no robar el sacrificio de alguien más",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": false,
+    "OFFENSIVE": true,
+    "CALLS": false,
+    "categories": []
+  },
+  {
+    "id": 375473,
+    "tweet_id": "1286128306765606912",
+    "article_id": "1286038489646215170",
+    "text": "@usuario Y que tiene de malo? Bien muerto el negro de mierda lastima que se gastaron 2 balas, ya cuando entran a la cárcel hay que matarlos, nos salen caros y los mantenemos con los impuestos",
+    "annotator": "llm:openai/gpt-4o-mini",
+    "HATEFUL": true,
+    "OFFENSIVE": true,
+    "CALLS": true,
+    "categories": [
+      "RACISM",
+      "CRIMINAL"
+    ]
+  }
+]
